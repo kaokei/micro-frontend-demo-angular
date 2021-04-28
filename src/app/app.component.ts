@@ -1,5 +1,3 @@
-import 'iframe-resizer/js/iframeResizer.contentWindow';
-
 import { Component, OnInit } from '@angular/core';
 import { PostBridge } from '@kaokei/post-bridge/dist/index.es2015';
 
