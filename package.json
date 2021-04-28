@@ -21,6 +21,7 @@
     "@angular/router": "~11.2.10",
     "@kaokei/post-bridge": "^1.0.0",
     "iframe-resizer": "^4.3.2",
+    "ng-zorro-antd": "^11.4.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.3"
